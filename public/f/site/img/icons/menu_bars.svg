@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_358" data-name="Group 358" transform="translate(-1464 -139)">
+    <g id="Rectangle_215" data-name="Rectangle 215" transform="translate(1464 139)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="30" height="30" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" rx="1.5" fill="none"/>
+    </g>
+    <g id="_001-menu" data-name="001-menu" transform="translate(1471 71)">
+      <g id="Group_298" data-name="Group 298" transform="translate(0 82.225)">
+        <g id="Group_297" data-name="Group 297" transform="translate(0 0)">
+          <path id="Path_262" data-name="Path 262" d="M15.731,236H.639a.793.793,0,0,0,0,1.556H15.731a.793.793,0,0,0,0-1.556Z" transform="translate(0 -236)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_300" data-name="Group 300" transform="translate(0 76)">
+        <g id="Group_299" data-name="Group 299" transform="translate(0 0)">
+          <path id="Path_263" data-name="Path 263" d="M15.731,76H.639a.793.793,0,0,0,0,1.556H15.731a.793.793,0,0,0,0-1.556Z" transform="translate(0 -76)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_302" data-name="Group 302" transform="translate(0 88.451)">
+        <g id="Group_301" data-name="Group 301">
+          <path id="Path_264" data-name="Path 264" d="M15.731,396H.639a.793.793,0,0,0,0,1.556H15.731a.793.793,0,0,0,0-1.556Z" transform="translate(0 -396)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

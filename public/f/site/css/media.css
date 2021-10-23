@@ -1,0 +1,871 @@
+
+
+@media (max-width: 1499.98px){
+.container {
+    width: 95%;
+}
+.our-hotel-complex__block-min {
+    max-width: 795px;
+    width: 100%;
+}
+.our-hotel-slider__min__box {
+    width: 154px!important;
+    height: 96px!important;
+}
+.our-hotel-slider__min__box + .our-hotel-slider__min__box {
+    margin-left: 5.2px;
+}
+.our-hotel-standard-double__box {
+    width: 16.666666%;
+    padding: 8px;
+}
+.sauna-slider__photo__big {
+    max-width: 994px;
+    width: 100%;
+}
+.contact-min__form {
+    max-width: 600px;
+}
+}
+
+
+@media (max-width: 1299.98px){
+.sidenav>ul>li + li>a {
+    padding-left: 10px;
+}
+.sidenav>ul>li>a {
+    font-size: 15px;
+}
+.garden-group__info:hover{
+    transform: scale(1.2);
+}
+.about-us-fon {
+    max-width: 676px;
+    height: 381px;
+}
+.about-us-box {
+    margin-left: 25px;
+}
+.about-us-text p {
+    font-size: 16px;
+}
+.about-us-text p + p {
+    margin-top: 10px;
+}
+.more-about-us {
+    margin-top: 35px;
+}
+.hotel-rooms-in-yerevan__img {
+    height: 204px;
+}
+.hotel-rooms-in-yerevan__text {
+    padding: 15px 15px 26px;
+}
+.hotel-rooms-in-yerevan__text p {
+    margin-top: 25px;
+}
+.about-us-min {
+    margin-top: 80px;
+}
+.garden-restaurant__info {
+    max-width: 582px;
+    height: 419px;
+    padding: 26px 20px 18px 24px;
+    margin-left: -168px;
+}
+.garden-restaurant__info p {
+    line-height: 28px;
+}
+.footer-garden__hall__block {
+    max-width: 600px;
+    width: 100%;
+}
+
+.garden-group-min__block .slick-next {
+    right: 15px;
+    border-top: 2px transparent;
+    border-left: 2px transparent;
+    border-right: 2px solid #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
+    transform: rotate(-45deg);
+
+}
+.garden-group-min__block .slick-prev {
+    left: 15px;
+    border-top: 2px solid #FFFFFF;
+    border-left: 2px solid #FFFFFF;
+    border-right: 2px transparent;
+    border-bottom: 2px transparent;
+    transform: rotate(-45deg);
+}
+.garden-group-min__block .slick-prev, .garden-group-min__block .slick-next {
+    width: 30px;
+    height: 30px;
+    z-index: 999;
+}
+.garden-group-min__block .slick-prev:before, .garden-group-min__block .slick-next:before{
+    display: none;
+}
+.our-hotel-complex__form {
+    padding: 22px 15px 34px;
+    margin-left: 20px;
+}
+
+
+.sauna-slider__photo__small .slick-list {
+    padding: 0!important;
+    height: 612px!important;
+}
+.sauna-slider__photo {
+    height: 610px;
+}
+.sauna-slider__photo__big {
+    max-width: 900px;
+    width: 100%;
+}
+.about-us-info__box p {
+    line-height: 29px;
+}
+.about-us-info__content__block {
+    max-width: 1070px;
+}
+.about-us-info__content__block a:nth-child(even):after{
+    left: -60px;
+}
+.about-us-info__content__block a:nth-child(odd):before{
+    right: -60px;
+}
+.information-page__gallery a {
+    width: 16%;
+    padding: 5px 0px;
+}
+.work-card .description .overlay {
+    height: 290px;
+}
+
+}
+
+@media (max-width: 1169.98px){
+
+.outer-menu .menu > div > div > ul > li {
+    padding: 0;
+    margin: 19px 0;
+    font-size: 24px;
+    display: block;
+}
+.sidenav .header-logo {
+    margin: 16px auto 26px;
+}
+.languages-min {
+    border: 2px solid #FFFFFF;
+    /*width: 160px;*/
+    display: inline-block;
+    margin: 0 auto;
+    /*padding: 2px 5px;*/
+}
+.languages-min ul li {
+    font: 16px "Segoe UI","HelveticaNeueCyr-Bold","Helvetica",sans-serif!important;
+    /*color: #FFFFFF!important;*/
+    line-height: 1.2;
+    font-weight: bold!important;
+    position: relative!important;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    padding: 5px 7px!important;
+    cursor: pointer;
+}
+    .languages-min ul li a{
+        color: #FFFFFF;
+    }
+.languages-min ul li:nth-child(2){
+    border-left: 2px solid #FFFFFF!important;
+    border-right: 2px solid #FFFFFF!important;
+    padding: 5px 13px!important;
+}
+
+.outer-menu .menu > div > div {
+    /*margin-top: -107px;*/
+}
+.sidenav .header-logo a img {filter: brightness(0) invert(1);}
+.sidenav .header-logo{
+    margin: 0 auto 30px;
+}
+.about-us-fon {
+    max-width: 480px;
+    height: 381px;
+}
+.about-us-box {
+    margin-left: 20px;
+}
+.about-us-text p {
+    font-size: 15px;
+}
+.garden-restaurant__info {
+    max-width: 508px;
+    margin-left: -141px;
+}
+.about-us-block {
+    margin-top: 80px;
+}
+.footer-garden__hall__block {
+    max-width: 670px;
+    width: 100%;
+}
+.footer-block {
+    padding-bottom: 60px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.our-hotel-complex__min {
+    flex-direction: column;
+    align-items: center;
+}
+.our-hotel-complex__form {
+    padding: 22px 20px 34px;
+    margin-left: 0;
+    margin-top: 45px;
+}
+.our-hotel-standard-double__box {
+    width: 20%;
+}
+
+.sauna-slider__photo {
+    height: 490px;
+}
+.sauna-slider__photo__small .slick-list {
+    padding: 0!important;
+    height: 490px!important;
+}
+.sauna-robinson__form {
+    max-width: 680px;
+    padding: 30px 35px 34px;
+}
+.sauna-robinson__form__data .our-complex__form__inp {
+    max-width: 280px;
+}
+.sauna-robinson__form__clock {
+    max-width: 280px;
+}
+.sauna-slider__photo__big {
+    max-width: 700px;
+    width: 100%;
+}
+.about-us-info_block{
+    flex-direction: column-reverse;
+    align-items: center;
+}
+.about-us-info__box {
+    margin-right: 0;
+    margin-top: 30px;
+}
+.about-us-info__content__block a {
+    max-width: 430px;
+}
+.about-us-info__content__img {
+    height: 300px;
+    margin-bottom: 30px;
+
+}
+.about-us-info__content__block {
+    justify-content: center;
+}
+.about-us-info__content__block a:nth-child(even){
+     margin-top: 0;
+ }
+.about-us-info__content__block a:nth-child(even):after{
+    display: none;
+}
+.about-us-info__content__block a:nth-child(odd):before{
+    display: none;
+}
+.about-us-info__content__block:before{
+    display: none;
+}
+.contact-min__block{
+    flex-direction: column;
+    align-items: center;
+}
+.contact-min__form {
+    margin-top: 40px;
+    margin-left: 0;
+}
+.information-page__gallery{
+    justify-content: flex-start;
+}
+.information-page__gallery a {
+    width: 20%;
+    padding: 5px 5px;
+}
+
+}
+
+
+@media (max-width: 991.98px){
+.about-us-block {
+    margin-top: 80px;
+    flex-direction: column;
+    align-items: center;
+}
+.about-us-fon {
+    max-width: 611px;
+    height: 425px;
+}
+.about-us-box {
+    margin-left: 0;
+    margin-top: 30px;
+}
+.hotel-rooms-in-yerevan__box {
+    width: 50%;
+    padding: 10px;
+}
+.garden-restaurant {
+     margin-top: 80px;
+     flex-direction: column;
+     align-items: center;
+ }
+.garden-restaurant__info {
+    max-width: 659px;
+    margin-left: 0;
+}
+.about-us-text p {
+    font-size: 17px;
+}
+.footer-garden__hall__block {
+    max-width: 600px;
+    width: 100%;
+}
+.footer-garden__hall ul li {
+    margin-top: 15px;
+}
+.for-news-min__block {
+    margin-bottom: 50px!important;
+}
+.hotel-rooms-in-yerevan {
+    margin: 70px -10px 0;
+}
+.about-us-min {
+    margin-top: 60px;
+}
+.garden-restaurant__info {
+    margin-top: 30px;
+    box-shadow: 0px 0px 4px #1616164a;
+}
+.our-hotel-standard-double__box {
+    width: 25%;
+}
+.our-hotel-complex__photo {
+    max-width: 1048px;
+    height: 450px;
+}
+.our-hotel-slider__min__box {
+    width: 137px!important;
+    height: 90px!important;
+}
+
+.sauna-slider__photo__small {
+    margin-left: 0;
+    width: 100%;
+}
+.sauna-robinson__min__block{
+    flex-direction: column;
+}
+.sauna-slider__photo__small .slick-list {
+    height: auto!important;
+}
+.sauna-slider__min__box + .sauna-slider__min__box{
+    margin-left: 6px;
+}
+.information-page__gallery a {
+    width: 25%;
+}
+    .information-page__text p {
+        line-height: 29px;
+        font-size: 15px;
+    }
+
+
+}
+
+
+@media (max-width: 767.98px){
+.container {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.header-block{
+    display: none;
+}
+.outer-menu{
+    display: block;
+}
+.sidenav>ul>li a {
+    background-image: linear-gradient( to right, #fff, #fff 50%, #fff 50%);
+}
+
+.sidenav>ul>li + li>a {
+    padding-left: 0!important;
+}
+.sticky .header-min {
+    align-items: center;
+    justify-content: center;
+}
+
+
+.garden-group-min__block{
+    display: none;
+}
+.garden-group-min__box:hover{
+    display: none;
+}
+.garden-group-mobile__none{
+    display: block;
+}
+header {
+    box-shadow: 0px 2px 9px #8F8F8F;
+
+}
+
+.garden-group-mobile{
+    max-width: 385px;
+    width: 100%;
+    margin: 0 auto;
+}
+.garden-group-max{
+    margin-top: 34px;
+}
+.garden-group-mobile__block{
+    margin-top: 15px;
+}
+.garden-group-mobile__block a{
+    display: flex;
+    align-items: center;
+}
+
+.garden-group-mobile__icon{
+    border-radius: 14px;
+    background: #0E5E21;
+    width: 75px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 99;
+}
+.garden-group-mobile__icon img{
+    width: 54px;
+    height: 54px;
+}
+.garden-group-mobile__box{
+    max-width: 328px;
+    width: 100%;
+    box-shadow: 1px 2px 6px #8F8F8F;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-left: -25px;
+    position: relative;
+}
+.garden-group-mobile__text p{
+    font: 16px "Segoe UI","HelveticaNeueCyr-Bold","Helvetica",sans-serif;
+    color: #717171;
+    line-height: 1.2;
+}
+.garden-group-mobile__name strong{
+    font: 16px "Segoe UI","HelveticaNeueCyr-Bold","Helvetica",sans-serif;
+    color: #0E5E21;
+    font-weight: bold;
+    line-height: 1.2;
+    text-transform: uppercase;
+}
+
+.garden-group-mobile__circle{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: -15px;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    width: 30px;
+    height: 30px;
+    box-shadow: 0px 2px 3px #8F8F8F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.garden-group-mobile__circle:after{
+    content: "";
+    position: absolute;
+    top: auto;
+    left: 9px;
+    width: 8px;
+    height: 8px;
+    border-top: 1px transparent;
+    border-left: 1px transparent;
+    border-right: 1px solid #0E5E21;
+    border-bottom: 1px solid #0E5E21;
+    transform: rotate(-45deg);
+}
+.about-us-text p {
+    font-size: 16px;
+    text-align: center;
+}
+.more-about-us a {
+    margin: 0 auto;
+}
+.hotel-rooms-in-yerevan__text strong {
+    font-size: 22px;
+}
+
+.hotel-rooms-in-yerevan__text a {
+    font-size: 22px;
+}
+.hotel-rooms-in-yerevan__text span {
+    font-size: 18px;
+}
+.hotel-rooms-in-yerevan__text p {
+    font-size: 15px;
+}
+.restaurant-hotel-block__info{
+    justify-content: center;
+}
+.hotel-rooms-in-news__img {
+    height: 220px;
+}
+.all-rights-reserved__info {
+    flex-direction: column;
+    align-items: center;
+}
+.all-rights-reserved__text p {
+    margin-bottom: 15px;
+}
+.block-margin__top {
+    margin-top: 50px!important;
+}
+.hotel-rooms-in-yerevan__text {
+    padding: 15px 10px 26px;
+}
+.footer-block {
+    padding-bottom: 60px;
+}
+.footer-site p {
+    text-align: center;
+}
+.footer-site {
+    margin-top: 50px;
+}
+.footer-site ul{
+    justify-content: center;
+}
+.footer-garden__hall strong {
+    font-size: 18px;
+    display: block;
+    text-align: center;
+}
+.footer-garden__hall ul li a{
+    display: block;
+    text-align: center;
+}
+.footer-garden__hall__block {
+    justify-content: center;
+}
+.footer-min {
+    padding-top: 40px;
+}
+.footer-garden__hall {
+    padding: 7px;
+}
+.restaurant-hotel-complex__title h1 {
+    text-align: center;
+    font-size: 24px;
+}
+.restaurant-hotel-block__info .footer-garden__hall {
+    margin-top: -30px;
+}
+.our-hotel-standard-double__name{
+    flex-direction: column;
+    align-items: center;
+}
+.our-hotel-standard-double__price{
+    margin-top: 15px;
+}
+.our-hotel-standard-double__text p {
+    text-align: center;
+    font-size: 15px;
+}
+.our-hotel-standard-double__box {
+    padding: 5px;
+}
+.our-hotel-complex__photo {
+    height: 400px;
+}
+.sauna-slider__photo {
+    height: 386px;
+}
+.sauna-robinson__form__data {
+    flex-direction: column;
+    align-items: center;
+}
+.sauna-robinson__form__data .our-complex__form__inp {
+    max-width: 100%;
+}
+.sauna-robinson__form__clock {
+    max-width: 100%;
+}
+.about-us-info__img {
+    min-height: 500px;
+}
+.about-us-info__content {
+    margin-top: 60px;
+}
+.contact-min__href {
+    margin: 60px auto 0;
+}
+.footer-garden__hall ul li{
+    justify-content: center;
+}
+
+.information-page__gallery a {
+    width: 33.333333%;
+}
+.information__title {
+    padding: 4px 17px;
+}
+.information-page__text p {
+    line-height: 27px;
+    text-align: center;
+}
+    .information-page__gallery {
+        margin: 20px 0px 0;
+        width: 100%;
+    }
+    .our-hotel-complex__min {
+        margin: 30px 0;
+    }
+    .restaurant-hotel-block__min .hotel-rooms-in-yerevan {
+        margin: 30px -10px 40px;
+    }
+    .sauna-robinson__min {
+        margin: 30px 0;
+    }
+    .about-us-info {
+        margin: 30px 0;
+    }
+    .contact-min {
+        margin: 20px 0 40px;
+    }
+
+}
+@media (max-width: 575.98px){
+
+.outer-menu .menu > div > div {
+    margin-top: -60px;
+}
+.outer-menu .menu > div {
+    width: 300vw;
+    height: 300vw;
+}
+.header-logo {
+    max-width: 190px;
+    height: 66px;
+}
+.sidenav .header-logo {
+    margin: 80px auto 17px;
+}
+.garden-group-mobile__circle {
+    right: -10px;
+}
+.garden-group-mobile__box {
+    padding: 10px 33px 10px 66px;
+    margin-left: -61px;
+}
+.garden-group-mobile__icon {
+    width: 74px;
+    height: 70px;
+}
+.header-min {
+    padding: 20px 0;
+}
+.outer-menu {
+    top: 50px;
+}
+.garden-group-mobile {
+    max-width: 353px;
+}
+.hotel-rooms-in-yerevan__box {
+    width: 100%;
+    padding: 15px 0;
+}
+    .hotel-rooms-in-yerevan__box1 {
+        width: 100%;
+        padding: 15px 0;
+    }
+.about-us-block {
+    margin-top: 60px;
+}
+.about-us-fon {
+    height: 322px;
+}
+.about-us-text p {
+    font-size: 15px;
+    text-align: center;
+}
+.about-us-title h2 {
+    font-size: 22px;
+}
+.about-us-title h1 {
+    font-size: 22px;
+}
+.hotel-rooms-in-yerevan {
+    margin: 50px 0 0;
+    padding: 0 10px;
+}
+.garden-restaurant__info {
+    margin-top: 15px;
+    padding: 20px 0 18px 0;
+    height: auto;
+    box-shadow: unset;
+    background: unset;
+}
+.garden-restaurant__info p {
+    line-height: 22px;
+}
+.all-rights-reserved__text p {
+    text-align: center;
+}
+.footer-garden__hall ul li a img {
+    margin-right: 5px;
+    margin-top: 0;
+}
+.hotel-rooms-in-yerevan__text {
+    text-align: center;
+}
+.garden-restaurant__box {
+    height: 340px;
+}
+.about-us-min {
+    margin-top: 45px;
+}
+.for-news-min__block {
+    margin-bottom: 30px!important;
+}
+.footer-block {
+    flex-direction: column;
+    align-items: center;
+}
+.restaurant-hotel-block__info .footer-garden__hall {
+    padding: 20px 8px;
+}
+.restaurant-hotel-block__info .footer-garden__hall ul li a{
+    font-size: 14px;
+}
+.restaurant-hotel-block__info .footer-garden__hall ul li a img {
+    margin-right: 2px;
+}
+.restaurant-hotel-complex__title h1 {
+    font-size: 22px;
+}
+.restaurant-hotel-block__min .hotel-rooms-in-yerevan {
+    margin: 48px 0 60px;
+}
+.our-hotel-standard-double__box {
+    width: 50%;
+}
+.our-hotel-standard-double__text p {
+    line-height: 21px;
+}
+.our-hotel-standard-double__title h2 {
+    font-size: 29px;
+}
+.our-hotel-standard-double__price strong {
+    text-align: center;
+    display: block;
+}
+.our-hotel-complex__photo {
+    height: 300px;
+}
+.footer-garden__hall {
+    padding: 7px 0;
+}
+.add-catalog__min p {
+    font-size: 14px;
+}
+.our-complex__form__inp strong {
+    font-size: 14px;
+
+}
+.our-complex__form__inp {
+    margin-top: 20px;
+}
+.our-complex__form__block h2 {
+    font-size: 19px;
+
+}
+.sauna-slider__photo {
+    height: 300px;
+}
+.sauna-robinson__form {
+    padding: 25px 15px 25px;
+}
+.sauna-robinson__background {
+    margin-left: -80px;
+}
+.min-map {
+    width: 100%;
+    height: 500px;
+}
+.about-us-info__img {
+    min-height: 400px;
+}
+.about-us-info__img:after {
+    top: 9px;
+    left: 7px;
+}
+.about-us-info__box p {
+    line-height: 25px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.about-us-info__content__block a {
+    padding: 15px 0;
+}
+.about-us-info__content__img {
+    height: 260px;
+}
+.contact-min__form {
+    padding: 22px 16px 25px;
+}
+.which-fields-are-required>p{
+    font-size: 14px;
+}
+.our-complex__form__btn button {
+    width: 130px;
+    height: 45px;
+    font-size: 12px;
+}
+.error-min__number strong {
+    line-height: 134px;
+    font-size: 150px;
+}
+.error-min__title h1 {
+    line-height: 24px;
+    font-size: 16px;
+}
+
+    .information-page__gallery a {
+        width: 50%;
+        text-align: center;
+    }
+    .information__title h1 {
+        font-size: 21px;
+    }
+
+    .slider-for-photo .slick-prev, .slider-for-photo .slick-next {
+        width: 20px;
+        height: 20px;
+    }
+    .sauna-slider__photo__big .slick-prev, .sauna-slider__photo__big .slick-next {
+        width: 20px;
+        height: 20px;
+    }
+
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1200 600">
+      <image width="1200" height="600" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAAJYAgMAAAAPiPeJAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAADFBMVEXZABIAM6DyqAD///+D/aSZAAAAAWJLR0QDEQxM8gAAAAd0SU1FB+QKAREFC0RMaHoAAAIsSURBVHja7dAxAQAACAMgS1rSlFaYhx9EoAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAF01MlixZsmTJQpYsWbJkyUKWLFmyZMlClixZsmTJQpYsWbJkyUKWLFmyZMlClixZsmTJQpYsWbJkyUKWLFmyZMlClixZsmTJQpYsWbJkyUKWLFmyZMlClixZsmTJQpYsWbJkyUKWLFmyZMlClixZsmTJQpYsWbJkyUKWLFmyZMlClixZsmTJQpYsWbJkyUKWLFmyZMlClixZsmTJQpYsWbJkyUKWLFmyZMlClixZsmTJQpYsWbJkyUKWLFmyZMlClixZsmTJQpYsWbJkyUKWLFmyZMlClixZsmTJQpYsWbJkyUKWLFmyZMlC1iVriMmSJUuWLFnIkiVLlixZyJIlS5YsWciSJUuWLFnIkiVLlixZyJIlS5YsWciSJUuWLFnIkiVLlixZyJIlS5YsWciSJUuWLFnIkiVLlixZyJIlS5YsWciSJUuWLFnIkiVLlixZyJIlS5YsWciSJUuWLFnIkiVLlixZyJIlS5YsWciSJUuWLFnIkiVLlixZyJIlS5YsWciSJUuWLFnIkiVLlixZyJIlS5YsWciSJUuWLFnIkiVLlixZyJIlS5YsWciSJUuWLFnIkiVLlixZyJIlS5YsWciSJUuWLFnIkiVLlixZyJIlS5YsWcg6WI1hg0jvLMZaAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTEwLTAxVDE3OjA1OjExKzAwOjAwqxvrZQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0xMC0wMVQxNzowNToxMSswMDowMNpGU9kAAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <circle id="_1200px-Flag_of_Armenia.svg" data-name="1200px-Flag_of_Armenia.svg" cx="60" cy="60" r="60" fill="url(#pattern)"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 318 159">
+      <image width="318" height="159" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAFVBMVEXZABLyqAAAM6DjAAAANacAJKf9rwCWdlx+AAAA9UlEQVR4nO3QSQGAAAAEofXsH9kQ4xMisAEAAAAAAAAAAAAAAAAAAAD86CLYTbCTQF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9lDsJdgB4G+RF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL/kAgQnVqWN3eLYAAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <rect id="Без_названия" data-name="Без названия" width="25" height="25" rx="12.5" fill="url(#pattern)"/>
+</svg>

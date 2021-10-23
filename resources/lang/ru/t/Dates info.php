@@ -1,0 +1,1 @@
+<?php return ['January'=>'январь','February'=>'февраль','March'=>'март','April'=>'апрель','May'=>'май','June'=>'июнь','July'=>'июль','August'=>'август','September'=>'Сентябрь','October'=>'октябрь','November'=>'ноябрь','December'=>'декабрь','Aug'=>'август','Jan'=>'январь'];

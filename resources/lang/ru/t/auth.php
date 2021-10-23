@@ -1,0 +1,1 @@
+<?php return ['invalid integer value'=>'недействительное целое значение','invalid file type'=>'Неверный тип файла'];

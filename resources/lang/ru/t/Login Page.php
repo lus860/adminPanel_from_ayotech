@@ -1,0 +1,1 @@
+<?php return ['LOG IN'=>'Авторизация','Email'=>'адрес электронной почты','Password'=>'Пароль','Forgot password?'=>'Забыли пароль?','Registration'=>'Регистрация'];

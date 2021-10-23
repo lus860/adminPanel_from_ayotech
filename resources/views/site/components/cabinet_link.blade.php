@@ -1,0 +1,1 @@
+<a class="cabinet-link{{ \Route::is($route)?' active_link_cabinet':null }}" href="{{ route($route) }}">{{ $title??null }}</a>

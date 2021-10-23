@@ -1,0 +1,4 @@
+[24-Aug-2020 11:00:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/ntpam/pulmonology.am/app/Console/Commands/BannersFix.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ntpam/pulmonology.am/app/Console/Commands/BannersFix.php on line 8

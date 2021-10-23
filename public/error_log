@@ -1,0 +1,16 @@
+[24-Aug-2020 10:23:34 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ntpam/pulmonology.am/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[24-Aug-2020 10:25:23 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ntpam/pulmonology.am/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[24-Aug-2020 10:30:31 UTC] PHP Warning:  require(DIR/vendor/autoload.php): failed to open stream: No such file or directory in /home/ntpam/pulmonology.am/public/index.php on line 25
+[24-Aug-2020 10:30:31 UTC] PHP Fatal error:  require(): Failed opening required 'DIR/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ntpam/pulmonology.am/public/index.php on line 25
+[24-Aug-2020 10:30:32 UTC] PHP Warning:  require(DIR/vendor/autoload.php): failed to open stream: No such file or directory in /home/ntpam/pulmonology.am/public/index.php on line 25
+[24-Aug-2020 10:30:32 UTC] PHP Fatal error:  require(): Failed opening required 'DIR/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ntpam/pulmonology.am/public/index.php on line 25
+[24-Aug-2020 10:30:56 UTC] PHP Warning:  require(/home/ntpam/pulmonology.am/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/ntpam/pulmonology.am/public/index.php on line 25
+[24-Aug-2020 10:30:56 UTC] PHP Fatal error:  require(): Failed opening required '/home/ntpam/pulmonology.am/public/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ntpam/pulmonology.am/public/index.php on line 25
+[24-Aug-2020 10:31:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ntpam/pulmonology.am/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[25-Aug-2020 14:04:43 Asia/Yerevan] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ntpam/pulmonology.am/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[25-Aug-2020 14:40:29 Asia/Yerevan] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 163840 bytes) in /home/ntpam/pulmonology.am/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[25-Aug-2020 14:40:29 Asia/Yerevan] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 163840 bytes) in /home/ntpam/pulmonology.am/vendor/composer/ClassLoader.php on line 444
+[25-Aug-2020 18:33:12 Asia/Yerevan] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 65536 bytes) in /home/ntpam/pulmonology.am/vendor/composer/ClassLoader.php on line 444
+[25-Aug-2020 18:33:12 Asia/Yerevan] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 163840 bytes) in /home/ntpam/pulmonology.am/vendor/composer/ClassLoader.php on line 444
+[03-Sep-2020 13:15:58 Asia/Yerevan] PHP Fatal error:  Access level to App\Models\Info::$table must be protected (as in class Illuminate\Database\Eloquent\Model) or weaker in /home/ntpam/pulmonology.am/app/Models/Info.php on line 11
+[03-Sep-2020 13:40:38 Asia/Yerevan] PHP Fatal error:  Cannot redeclare App\Models\Info::$table in /home/ntpam/pulmonology.am/app/Models/Info.php on line 14

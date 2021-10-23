@@ -1,0 +1,1 @@
+<?php return ['Information'=>'Information','Hotel rooms'=>'Hotel rooms','Design and development'=>'Дизайн и разработка','Konyak Hotel'=>'Konyak Hotel','All Rights Reserved'=>'Все права защищены'];
